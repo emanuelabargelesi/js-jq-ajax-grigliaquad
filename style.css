@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+table {
+  margin:15px auto;
+}
+
+td {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  color: black;
+  text-align: center;
+  font-size: 30px;
+}
+
+.yellow {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  color: black;
+}
+
+.green {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  color: black;
+}
